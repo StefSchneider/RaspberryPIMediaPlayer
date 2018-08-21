@@ -24,7 +24,7 @@ Additional benefits:
 - steer led stripes
 
 
-##Modules**
+## Modules
 - Input: pulls files from source
 - Output: pushes files to output device
 - Menu: steers menu 
